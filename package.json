@@ -9,9 +9,6 @@
   "dependencies": {
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "lucide-react": "latest",
-    "tailwindcss": "latest",
-    "@shadcn/ui": "latest"
+    "react-dom": "latest"
   }
 }
