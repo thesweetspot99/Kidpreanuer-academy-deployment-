@@ -1,0 +1,10 @@
+{
+  "orgId": "your-org-id",
+  "projectId": "kidpreneur-academy",
+  "settings": {
+    "framework": "nextjs",
+    "buildCommand": "npm run build",
+    "outputDirectory": ".next",
+    "rootDirectory": "/"
+  }
+}
